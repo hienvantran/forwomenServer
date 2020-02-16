@@ -10,6 +10,9 @@ To use our website, the users are required to sign up and login. They have two o
 
 Our web-app is divided into 3 parts:
 
-### Front-end: The design and the content which is displayed for users.
-### Back-end: All the contents which is in the work of archiving, querying, and linking between the database and other websites.
-### Log-in by Face: We will use the algorithms in Deep Learning for Face Detection and Face Verification.
+### Front-end: 
+The design and the content which is displayed for users.
+### Back-end: 
+All the contents which is in the work of archiving, querying, and linking between the database and other websites.
+### Log-in by Face: 
+We will use the algorithms in Deep Learning for Face Detection and Face Verification.
