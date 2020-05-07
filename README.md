@@ -1,4 +1,5 @@
 # forWomen
+Contributed by: Nguyen Duong Quynh Chi and Tran Hien Van
 ## Target: Gender Equality
 The web application allows women to pool resources in order to lower cost of female necessities items via bulk purchase.
 
@@ -16,3 +17,7 @@ The design and the content which is displayed for users.
 All the contents which is in the work of archiving, querying, and linking between the database and other websites.
 ### Log-in by Face: 
 We will use the algorithms in Deep Learning for Face Detection and Face Verification.
+
+## Contribution:
+- Web application part: Chi
+- Deep Learning part: Van
